@@ -1,0 +1,8 @@
+name = "AtomicSimulationEnvironment"
+uuid = "1238eed6-bc3c-48ec-86e8-46b9e9449cbe"
+authors = ["Sakse Dalum <dalum@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+AbstractAtoms = "0cf89407-6866-4ccb-b1c0-f96114f2e8ae"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
